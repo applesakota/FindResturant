@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "94A58A8F-D019-439A-BBFE-6A2E630E7484"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E862E259-F9F1-4C05-8B42-C4AD67BC71B9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SeeClosely/Networking/RESTManager/RESTManager.swift"
+            startingColumnNumber = "18"
+            endingColumnNumber = "29"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "service"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
